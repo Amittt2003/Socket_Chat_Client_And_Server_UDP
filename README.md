@@ -1,3 +1,7 @@
 # Socket_Chat_Client_And_Server_UDP
-פרוייקט שנכתב בפייתון. פרוייקט זה הוא פלטפורמת צאט מסוג socket UDP בין שרת ללקוח.
-בפרוייקט UDP זה בניגוד לפרוקייט בTCP, השרת לא יוצר חיבור עם הלקוח, אלא הוא רק מחכה להודעות 
+
+A project written in Python.
+
+This project is a Socket UDP Chat Platform between server and client.
+
+The server in UDP-Socket unlike TCP-Socket, does not establish a connection with the client but is just waiting for messages. 
